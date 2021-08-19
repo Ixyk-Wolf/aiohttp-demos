@@ -6,7 +6,6 @@ pytest
 pytest-cov
 pytest-aiohttp
 numpy
-keras
 Pillow
 markdown2
 dataclasses
