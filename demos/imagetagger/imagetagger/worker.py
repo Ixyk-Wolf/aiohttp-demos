@@ -4,9 +4,9 @@ import signal
 import numpy as np
 from typing import Tuple, Dict, Any, Optional
 
-from keras.models import load_model
-from keras.applications import imagenet_utils
-from keras.preprocessing.image import img_to_array
+from tensorflow.keras.models import load_model
+from tensorflow.keras.applications import imagenet_utils
+from tensorflow.keras.preprocessing.image import img_to_array
 from PIL import Image
 
 
